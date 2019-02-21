@@ -1,3 +1,14 @@
 {
-  "extends": [ "eslint:recommended" ]
-}s
+  "extends": [ "eslint:recommended"],
+  "parser": "babel-eslint",
+  "globals": {
+    "module": true
+  },
+  "env": {
+    "node": true,
+    "browser": false,
+    "amd": true,
+    "es6": false
+  },
+  "rules": {}
+}
