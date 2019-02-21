@@ -1,5 +1,5 @@
 module.exports = {
-  extends: "google",
+  extends: "airbnb",
   rules: {
     "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
     "jsx-a11y/anchor-is-valid": "off",
