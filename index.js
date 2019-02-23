@@ -11,7 +11,6 @@ module.exports = {
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
     'react/forbid-prop-types': 'off',
     quotes: ['error', 'single', { allowTemplateLiterals: true }],
-    'no-trailing-spaces': 'off',
     'import/prefer-default-export': 'off',
     'arrow-parens': 'off',
     camelcase: 'off',
