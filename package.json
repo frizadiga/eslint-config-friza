@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-friza",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My (frizadiga.github.io) shareable eslint rules config",
   "main": "index.js",
   "scripts": {
