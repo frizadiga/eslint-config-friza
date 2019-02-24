@@ -12,7 +12,6 @@ module.exports = {
     'react/forbid-prop-types': 'off',
     quotes: ['error', 'single', { allowTemplateLiterals: true }],
     'import/prefer-default-export': 'off',
-    'arrow-parens': 'off',
     camelcase: 'off',
     'react/no-danger': 'off',
     'jsx-a11y/no-static-element-interactions': 'off',
