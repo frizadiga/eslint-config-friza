@@ -2,6 +2,10 @@
   "name": "eslint-config-friza",
   "version": "1.1.0",
   "description": "My (frizadiga.github.io) shareable eslint rules config",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,6 +14,14 @@
   },
   "author": "frizadiga",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frizadiga/eslint-config-friza.git"
+  },
+  "homepage": "https://github.com/frizadiga/eslint-config-friza#readme",
+  "bugs": {
+    "url": "https://github.com/frizadiga/eslint-config-friza/issues"
+  },
   "peerDependencies": {
     "eslint": ">= 3"
   },
