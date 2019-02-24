@@ -1,14 +1,14 @@
 {
-  "name": "eslint-config-cohive",
+  "name": "eslint-config-friza",
   "version": "1.0.0",
-  "description": "Shareable eslint rules config",
+  "description": "My (frizadiga.github.io) shareable eslint rules config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint *.js",
-    "lint:fix": "yarn lint -- --fix"
+    "lint:fix": "npm run lint -- --fix"
   },
-  "author": "cohive dev team",
+  "author": "frizadiga",
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 3",
