@@ -14,6 +14,6 @@ or
 In your `.eslintrc.js` file: 
 ```javascripyt
 module.exports = {
-  extends: "eslint-config-cohive"
+  extends: "eslint-config-friza"
 }
 ```
